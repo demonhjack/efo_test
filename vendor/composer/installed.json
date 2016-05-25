@@ -1,0 +1,37 @@
+[
+    {
+        "name": "myapo100l/test_php",
+        "version": "v1.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/myapo100l/test_php.git",
+            "reference": "d6ae7f2c075fe992931e6db24b99fc43cf761d1d"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/myapo100l/test_php/zipball/d6ae7f2c075fe992931e6db24b99fc43cf761d1d",
+            "reference": "d6ae7f2c075fe992931e6db24b99fc43cf761d1d",
+            "shasum": ""
+        },
+        "time": "2016-05-12 09:24:30",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Apo100l\\Quest\\": "src/classes/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Apostol Alexandr",
+                "email": "dev@apo100l.ru"
+            }
+        ],
+        "description": "quest for php dev"
+    }
+]

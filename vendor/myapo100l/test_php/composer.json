@@ -1,0 +1,17 @@
+{
+    "name": "myapo100l/test_php",
+    "description": "quest for php dev",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Apostol Alexandr",
+            "email": "dev@apo100l.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Apo100l\\Quest\\": "src/classes/"
+        }
+    }
+}
